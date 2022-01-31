@@ -16,7 +16,8 @@ h1,h2 {
 /* TODO: Styling by id: add styling for #title */
 #title{
   color:#FC8C93;
-  line-height: 200px; 
+  line-height: 10px;
+  margin-top: 120px; 
 }
 
 #question {
@@ -37,7 +38,7 @@ h1,h2 {
 
 .container {
   text-align: center;
-  margin: 50px auto;
+  margin: 20px auto;
 }
 
 .btn {
