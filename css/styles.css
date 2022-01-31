@@ -16,7 +16,7 @@ h1,h2 {
 /* TODO: Styling by id: add styling for #title */
 #title{
   color:#FC8C93;
-  line-height: 50px; 
+  line-height: 200px; 
 }
 
 #question {
